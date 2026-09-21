@@ -16,6 +16,20 @@
       "archive": "https://github.com/cashowdev/tpos/archive/refs/tags/v1.5.0-cashow.6.zip",
       "hash": "c026a46dc83085b0e4a1afca1b75f277ab1af66dedd0f34af876102cc5b6d5e9",
       "info_notification": "Cashow fork - betaalkeuze met CASH, QR STICKER en BANK, plus de custom-methode."
+    },
+    {
+      "id": "boltcards",
+      "name": "Bolt Cards (Cashow)",
+      "version": "1.1.1-cashow.2",
+      "repo": "https://github.com/cashowdev/boltcards",
+      "short_description": "Cashow fork van Bolt Cards (self custody, one time LNURLw)",
+      "min_lnbits_version": "1.3.0",
+      "icon": "https://raw.githubusercontent.com/cashowdev/boltcards/cashow/static/image/boltcard.png",
+      "details_link": "https://raw.githubusercontent.com/cashowdev/boltcards/cashow/config.json",
+      "html_url": "https://github.com/cashowdev/boltcards/releases/tag/v1.1.1-cashow.2",
+      "archive": "https://github.com/cashowdev/boltcards/archive/refs/tags/v1.1.1-cashow.2.zip",
+      "hash": "b39d6c76d61099b050f42db0dd7763b4f154973a937a4bb5380586a48e071324",
+      "info_notification": "Cashow fork - toont beschikbaar saldo in euro bij onvoldoende saldo."
     }
   ],
   "repos": []
