@@ -60,6 +60,20 @@
       "info_notification": "Cashow fork - compactere cash-modal, wisselgeldhulp op één scherm zonder scrollen."
     },
     {
+      "id": "tpos",
+      "name": "TPoS (Cashow)",
+      "version": "1.5.0-cashow.11",
+      "repo": "https://github.com/cashowdev/tpos",
+      "short_description": "Cashow fork van de shareable PoS terminal",
+      "min_lnbits_version": "1.5.0",
+      "icon": "https://raw.githubusercontent.com/cashowdev/tpos/v1.5.0-cashow.11/static/image/tpos.png",
+      "details_link": "https://raw.githubusercontent.com/cashowdev/tpos/v1.5.0-cashow.11/config.json",
+      "html_url": "https://github.com/cashowdev/tpos/releases/tag/v1.5.0-cashow.11",
+      "archive": "https://github.com/cashowdev/tpos/archive/refs/tags/v1.5.0-cashow.11.zip",
+      "hash": "25f68017ecb93c030805bb9cc09f3214510757b1d7796a6cf6afefe7e777461f",
+      "info_notification": "Cashow fork - print-dialoog terug met checkbox per terminal, checkout-drawer vastpinnen."
+    },
+    {
       "id": "boltcards",
       "name": "Bolt Cards (Cashow)",
       "version": "1.1.1-cashow.2",
